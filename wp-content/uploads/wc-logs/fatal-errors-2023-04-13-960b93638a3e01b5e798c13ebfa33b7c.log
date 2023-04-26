@@ -1,0 +1,2 @@
+2023-04-13T10:57:35+00:00 CRITICAL Cannot redeclare astra_cart_position() (previously declared in /Users/tinmariano/Local Sites/kawani/app/public/wp-content/themes/astra/inc/builder/type/header/woo-cart/dynamic-css/dynamic.css.php:743) in /Users/tinmariano/Local Sites/kawani/app/public/wp-content/themes/astra/inc/builder/type/header/woo-cart/dynamic-css/dynamic.css.php on line 743
+
